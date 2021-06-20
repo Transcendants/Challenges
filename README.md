@@ -3,8 +3,12 @@
 
 ### Pull the Level 1 challenges, and upload your progress to your GitHub repo, you will be added to our chat channel!
 
-### In the chat channel you can ask all questions related to the coding problems, get general coding help, enjoy some programmer humour and coder memes and most importantly interact with other coders, see how they minds work!
-
+#### In the chat channel you can 
+1. Ask all questions related to the coding problems
+2. Get general coding help
+3. enjoy some programmer humour and coder memes
+4. Interact with other coders, see how they minds work!
+5. Request code review from more experienced members.
 
 ![Do you even grind bro?](https://i.redd.it/sy4ygp2sfp421.jpg)
 
