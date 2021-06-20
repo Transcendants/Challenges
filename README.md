@@ -1,16 +1,21 @@
 # Underground Coders Club - Everyday Coding Challenges for Geeks!
 ## Solve code every day! Learn data structures and algorithms andbuild GitHub activity!
 
-### Fork this repo > Pull the Level 1 challenges > Upload each solved problem in a separate file [.jave, .c, .cpp, .py or .txt]
+### Fork this repo 
+> Pull the Level 1 challenges 
+> Upload each solved problem in a separate file [.jave, .c, .cpp, .py or .txt]
+
+
 ### After completing all the level 1 challenges you will be added to our chat channel.
 
 #### In the chat channel you can 
+```diff
 1. Ask all questions related to the coding problems
 2. Get general coding help
 3. enjoy some programmer humour and coder memes
 4. Interact with other coders, see how they minds work!
 5. Request code review from more experienced members.
-
+```
 
 ![Do you even grind bro?](https://i.redd.it/sy4ygp2sfp421.jpg)
 
