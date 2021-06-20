@@ -1,4 +1,4 @@
-# Coding Challenges for Geeks!
+# Underground Coders Club - Everyday Coding Challenges for Geeks!
 ## Solve code every day! Learn data structures and algorithms andbuild GitHub activity!
 
 ### Pull the Level 1 challenges, and upload your progress to your GitHub repo, you will be added to our chat channel!

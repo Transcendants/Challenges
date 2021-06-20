@@ -1,6 +1,6 @@
-## Level 1
+# Level 1
 
-1. 7 Easy Entry Level Problems
+## 7 Easy Entry Level Problems
 
 Topics covered: String Handling, Stacks, Loops, Linked Lists, Arrays
 
