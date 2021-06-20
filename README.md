@@ -1,11 +1,11 @@
 # Underground Coders Club - Everyday Coding Challenges for Geeks!
-## Solve code every day! Learn data structures and algorithms andbuild GitHub activity!
+## Solve code every day! Learn data structures and algorithms and build your GitHub activity!
 
 ### Fork this repo 
-> Pull the Level 1 challenges 
-> Upload each solved problem in a separate file [.jave, .c, .cpp, .py or .txt]
-> You are free to upload your own questions and solutions, Treat this as your leetcoding repo!
 
+1. Pull the Level 1 challenges 
+2. Upload each solved problem in a separate file [.jave, .c, .cpp, .py or .txt]
+3. You are free to upload your own questions and solutions, Treat this as your leetcoding repo!
 
 ### After completing all the level 1 challenges you will be added to our chat channel.
 
