@@ -20,12 +20,15 @@
 ![Do you even grind bro?](https://i.redd.it/sy4ygp2sfp421.jpg)
 
 ### When you clear Level 3 you will receive an invite for a One-Day Personal Portfolio Development Workshop!
+
 ### When you reach Level 4 you can join our group summer projects!
 
 
-#### Each easy problem carries 25 points, medium problems carry 50 points and hard problems carry 100 points.
-#### If your solution has the best time complexity you get +25 points, and for best space complexity you get +10 points
-
+## Rankings
+```diff
+1. Each easy problem carries 25 points, medium problems carry 50 points and hard problems carry 100 points.
+2. If your solution has the best time complexity you get +25 points, and for best space complexity you get +10 points
+```
 ## Engage in the friendly competition and see where you stand in the Weekly Leaderboard!
 
 
