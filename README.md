@@ -1,7 +1,8 @@
 # Underground Coders Club - Everyday Coding Challenges for Geeks!
 ## Solve code every day! Learn data structures and algorithms andbuild GitHub activity!
 
-### Pull the Level 1 challenges, and upload your progress to your GitHub repo, you will be added to our chat channel!
+### Fork this repo > Pull the Level 1 challenges > Upload each solved problem in a separate file [.jave, .c, .cpp, .py or .txt]
+### After completing all the level 1 challenges you will be added to our chat channel.
 
 #### In the chat channel you can 
 1. Ask all questions related to the coding problems
@@ -10,7 +11,11 @@
 4. Interact with other coders, see how they minds work!
 5. Request code review from more experienced members.
 
+
 ![Do you even grind bro?](https://i.redd.it/sy4ygp2sfp421.jpg)
+
+### When you clear Level 3 you will receive an invite for a One-Day Personal Portfolio Development Workshop!
+### When you reach Level 4 you can join our group summer projects!
 
 
 #### Each easy problem carries 25 points, medium problems carry 50 points and hard problems carry 100 points.
